@@ -7,7 +7,7 @@ Welcome to the **Internet Unicode Migration Taskforce (IUMT)** – an internatio
 ![](IUMT_wide_small.png)
 
 ## 🌐 Mission
-IUMT is committed to evolving the internet so that domain names, email addresses, and network text systems support Unicode natively – enabling inclusive, language-appropriate, and culturally diverse global communication.
+IUMT is committed to evolving the internet so that domain names, email addresses, and network text systems support Unicode natively – enabling inclusive, language-appropriate, and culturally diverse worldwide communication.
 
 ## 🧡 Why Unicode?
 Despite widespread use of Unicode on the web, the Domain Name System (DNS) remains ASCII-based. IDNA/Punycode is a transitional workaround that is no longer sufficient:
