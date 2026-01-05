@@ -40,7 +40,7 @@ Aceptamos todo tipo de contribuciones:
 1. Visita [iumt.org](https://iumt.org) (en preparación)
 2. Únete a la discusión: [issues/](./issues) o [forum](https://forum.iumt.org)
 3. Explora ejemplos de configuraciones DNS en Unicode (`examples/`)
-4. Firma el manifiesto: [`MANIFEST.md`](./MANIFEST.md)
+4. Firma el manifiesto: [`MANIFEST.md`](/docs/MANIFEST.md)
 
 ## 🚀 Visión
 Un internet global donde las personas puedan expresar su identidad digital **en su propio idioma y escritura**, sin barreras técnicas – completamente nativo en Unicode, desde la raíz hasta la aplicación.
