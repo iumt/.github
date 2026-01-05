@@ -2,7 +2,7 @@
 
 **Available languages:** [English](./README.md) | [Deutsch](./README.de.md) | [Español](./README.es.md)
 
-Welcome to the **Internet Unicode Migration Taskforce (IUMT)** – an international initiative to transition the global internet infrastructure toward fully native Unicode support, without the need for Punycode.
+Welcome to the **Internet Unicode Migration Taskforce (IUMT)** – an international initiative to transition the worldwide internet infrastructure toward fully native Unicode support, without the need for Punycode.
 
 ![](IUMT_wide_small.png)
 
@@ -19,7 +19,7 @@ Despite widespread use of Unicode on the web, the Domain Name System (DNS) remai
 Native Unicode in DNS would remove this disconnect.
 
 ## ⚖️ Objectives
-- Coordinate a global standardization process for native Unicode domain names
+- Coordinate a worldwide standardization process for native Unicode domain names
 - Develop migration strategies (root zone, resolvers, DNSSEC, legacy compatibility)
 - Promote Unicode compatibility in operating systems, libraries, and protocols
 - Raise international policy awareness about linguistic addressability
@@ -45,6 +45,6 @@ We welcome all forms of contribution:
 4. Sign the initiative: [`MANIFEST.md`](/docs/MANIFEST.md)
 
 ## 🚀 Vision
-A global internet where everyone can express their digital identity **in their own language and script**, without technical barriers – fully Unicode-native, from root to application.
+A worldwide internet where everyone can express their digital identity **in their own language and script**, without technical barriers – fully Unicode-native, from root to application.
 
 > **Names that belong – Zeichen, die verbinden.**
