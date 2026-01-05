@@ -7,7 +7,7 @@ Bienvenido al **Grupo de Trabajo para la Migración Unicode de Internet (IUMT)**
 ![](IUMT_wide_small.png)
 
 ## 🌐 Misión
-El IUMT tiene como objetivo transformar la infraestructura global de Internet para que los nombres de dominio, direcciones de correo electrónico y sistemas de texto en red soporten Unicode de forma nativa, promoviendo una comunicación inclusiva, apropiada en el idioma y culturalmente diversa.
+El IUMT tiene como objetivo transformar la infraestructura mundial de Internet para que los nombres de dominio, direcciones de correo electrónico y sistemas de texto en red soporten Unicode de forma nativa, promoviendo una comunicación inclusiva, apropiada en el idioma y culturalmente diversa.
 
 ## 🧡 ¿Por qué Unicode?
 A pesar del uso generalizado de Unicode en la web, el sistema de nombres de dominio (DNS) sigue estando basado en ASCII. IDNA/Punycode es una solución transitoria que ya no resulta suficiente:
@@ -45,6 +45,6 @@ Aceptamos todo tipo de contribuciones:
 4. Firma el manifiesto: [`MANIFEST.md`](/docs/MANIFEST.md)
 
 ## 🚀 Visión
-Un internet global donde las personas puedan expresar su identidad digital **en su propio idioma y escritura**, sin barreras técnicas – completamente nativo en Unicode, desde la raíz hasta la aplicación.
+Un internet mundial donde las personas puedan expresar su identidad digital **en su propio idioma y escritura**, sin barreras técnicas – completamente nativo en Unicode, desde la raíz hasta la aplicación.
 
 > **Nombres que nos pertenecen – Zeichen, die verbinden.**
