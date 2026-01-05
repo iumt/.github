@@ -7,7 +7,7 @@ Willkommen bei der **Internet Unicode Migration Taskforce (IUMT)** – einer int
 ![](IUMT_wide_small.png)
 
 ## 🌐 Mission
-Die IUMT verfolgt das Ziel, die globale Infrastruktur des Internets so weiterzuentwickeln, dass alle Domainnamen, E-Mail-Adressen und netzbezogenen Textsysteme Unicode nativ unterstützen – als Grundlage für eine inklusive, sprachgerechte und kulturell diverse globale Kommunikation.
+Die IUMT verfolgt das Ziel, die weltweite Infrastruktur des Internets so weiterzuentwickeln, dass alle Domainnamen, E-Mail-Adressen und netzbezogenen Textsysteme Unicode nativ unterstützen – als Grundlage für eine inklusive, sprachgerechte und kulturell diverse weltweite Kommunikation.
 
 ## 🧡 Warum Unicode?
 Trotz der Verbreitung von Unicode in Webinhalten ist das Domain Name System (DNS) weiterhin ASCII-basiert. IDNA/Punycode ist eine technische Übergangslösung, die langfristig nicht ausreicht:
@@ -26,10 +26,10 @@ Unicode direkt im DNS würde diesen Bruch überwinden.
 
 ## 🤝 Wer wir sind
 Die IUMT ist ein offenes, multidisziplinäres Bündnis aus:
-- Technischen Expert*innen aus DNS, Softwareentwicklung, Netzwerktechnik
+- Technischen Experten aus DNS, Softwareentwicklung, Netzwerktechnik
 - Sprachwissenschaftler*innen und Schriftkommunikationsforschenden
-- Aktivist*innen für digitale Inklusion und kulturelle Vielfalt
-- Vertreter*innen aus Standardisierungs- und Regulierungsinstitutionen
+- Aktivisten für digitale Inklusion und kulturelle Vielfalt
+- Vertreter aus Standardisierungs- und Regulierungsinstitutionen
 
 ## ✅ Mitmachen
 Wir freuen uns über Beiträge jeder Art:
@@ -45,6 +45,6 @@ Wir freuen uns über Beiträge jeder Art:
 4. Manifest unterzeichnen: [`MANIFEST.md`](/docs/MANIFEST.md)
 
 ## 🚀 Vision
-Ein globales Internet, in dem Menschen ihre digitale Identität **in ihrer eigenen Sprache und Schrift** frei und ohne technische Hürden gestalten können – vollständig Unicode-nativ, vom Root bis zur Anwendung.
+Ein weltweites Internet, in dem Menschen ihre digitale Identität **in ihrer eigenen Sprache und Schrift** frei und ohne technische Hürden gestalten können – vollständig Unicode-nativ, vom Root bis zur Anwendung.
 
 > **Zeichen, die verbinden – Names that belong.**
