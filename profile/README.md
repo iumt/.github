@@ -4,7 +4,7 @@
 
 Welcome to the **Internet Unicode Migration Taskforce (IUMT)** – an international initiative to transition the global internet infrastructure toward fully native Unicode support, without the need for Punycode.
 
-![](/IUMTwide.png)
+![](.github/profile/IUMTwide.png)
 
 ## 🌐 Mission
 IUMT is committed to evolving the internet so that domain names, email addresses, and network text systems support Unicode natively – enabling inclusive, language-appropriate, and culturally diverse global communication.
