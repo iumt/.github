@@ -4,6 +4,8 @@
 
 Bienvenido al **Grupo de Trabajo para la Migración Unicode de Internet (IUMT)** – una iniciativa internacional para la transición coordinada de la infraestructura de Internet hacia un soporte completamente nativo de Unicode, sin necesidad de Punycode.
 
+![](IUMT_wide_small.png)
+
 ## 🌐 Misión
 El IUMT tiene como objetivo transformar la infraestructura global de Internet para que los nombres de dominio, direcciones de correo electrónico y sistemas de texto en red soporten Unicode de forma nativa, promoviendo una comunicación inclusiva, apropiada en el idioma y culturalmente diversa.
 
