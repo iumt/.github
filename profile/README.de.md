@@ -40,7 +40,7 @@ Wir freuen uns über Beiträge jeder Art:
 
 ## ⚙️ Erste Schritte
 1. [iumt.org](https://iumt.org) besuchen (in Vorbereitung)
-2. Diskussion starten: [issues/](./issues) oder [forum](https://forum.iumt.org)
+2. Im [IUMT Consensus](https://github.com/orgs/iumt/discussions) mitdiskutieren oder [GitHub Issues](https://github.com/iumt/consensus/issues) für konkrete Aufgaben und technische Probleme nutzen.
 3. Beispiel-DNS-Konfigurationen mit Unicode testen (in `examples/`)
 4. Manifest unterzeichnen: [`MANIFEST.md`](/docs/MANIFEST.md)
 
