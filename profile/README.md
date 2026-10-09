@@ -40,7 +40,7 @@ We welcome all forms of contribution:
 
 ## ⚙️ Getting Started
 1. Visit [iumt.org](https://iumt.org) (coming soon)
-2. Join the discussion: [issues/](./issues) or [forum](https://forum.iumt.org)
+2. Join [IUMT Consensus](https://github.com/orgs/iumt/discussions) for open discussion, or use [GitHub Issues](https://github.com/iumt/consensus/issues) for concrete tasks and technical problems.
 3. Explore sample DNS configurations in Unicode (`examples/`)
 4. Sign the initiative: [`MANIFEST.md`](/docs/MANIFEST.md)
 
